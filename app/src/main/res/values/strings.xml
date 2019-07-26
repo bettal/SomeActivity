@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SomeActivity</string>
+    <string name="action_settings">Настройки</string>
+    <string name="params">Параметры</string>
+    <string name="preferences">Настройки</string>
+    <string name="to_second_activity_question">Желаете открыть вторую активити?</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+    <string name="temperature">Температура</string>
+    <string name="humidity">Давление</string>
+    <string name="start">Запуск сервиса</string>
+    <string name="temp">Температура</string>
+    <string name="humd">Давление</string>
+
+
+    <string name="button_save">Save</string>
+    <string name="button_load">Load</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_delete">Delete</string>
+    <string name="toast_file_deleted">File deleted</string>
+    <string name="toast_file_not_exist">File not exist</string>
+    <string name="toast_file_saved">File saved to %s</string>
+    <string name="good">good</string>
+    <string name="wrong">Wrong</string>
+    <string name="temperatureSensorValue">Temperature Sensor value =</string>
+    <string name="humiditySensorValue">Humidity Sensor value =</string>
+    <string name="saveFileError">save file error</string>
+    <string name="empty"/>
+    <string name="loadFileError">load file error</string>
+    <string name="savedText">savedText.txt</string>
+    <string name="temperatureKey">temperature</string>
+    <string name="humidityKey">humidity</string>
+    <string name="textKey">text</string>
+    <string name="textContent">Выбрать город и показатели в Настройках</string>
+    <string name="floatingActionButton">Вы нажали на плавающую кнопку</string>
+    <string name="textFlagParams">/params</string>
+    <string name="preferenceFileName">preferenceFile</string>
+    <string name="RU">RU</string>
+</resources>
