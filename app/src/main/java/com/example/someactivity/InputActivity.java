@@ -92,7 +92,7 @@ public class InputActivity extends AppCompatActivity {
                 }
 
                 addElement();
-                CityDataSource.addCity(editText.getText().toString(),getString(R.string.RU));
+                //CityDataSource.addCity(editText.getText().toString(),getString(R.string.RU));
                 dataUpdated();
 
                 // Формируем посылку
@@ -180,7 +180,7 @@ public class InputActivity extends AppCompatActivity {
 
     private void addElement() {
 
-        CityDataSource.addCity(editText.getText().toString(),getString(R.string.RU));
+        //CityDataSource.addCity(editText.getText().toString(),getString(R.string.RU));
         dataUpdated();
     }
     private void dataUpdated() {
